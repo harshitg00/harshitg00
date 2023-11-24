@@ -15,7 +15,7 @@
   <img height=250 align="right" src="https://cdn.dribbble.com/users/3414434/screenshots/14616859/media/94814b2e5bcd1dd9f926bdd0d98eda5c.gif" alt="GIF" />
 
 ### About me
-- 🙋‍♂️ I'm a final year student at IIIT Lucknow, India
+- 🙋‍♂️ I completed my bachelors in Computer Science from IIIT Lucknow, India
 - 🔭 I’m currently working on areas of Web Development and DSA
 - 👯 I’m looking to collaborate on projects based on web automation
 - 💬 Ask me about anything, I'm happy to help
